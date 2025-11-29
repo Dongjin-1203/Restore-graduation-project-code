@@ -6,6 +6,10 @@
 
 ## 프로젝트 디렉토리
 ```
-
+root/
+├─ code/        # Python 파일
+├─ notebooks/   # Jupyter Notebook 파일
+├─ tpcuprate/   # 추가 연구 산출물
+└─ README.md    # README
 ```
 **tbcuprate**디렉토리의 코드는 발표 이후 추가 연구를 진행하며 작성된 코드 입니다.
